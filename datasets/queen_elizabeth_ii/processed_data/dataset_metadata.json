@@ -1,0 +1,28 @@
+{
+  "persona": "Queen Elizabeth II",
+  "processing_date": "2025-10-04T14:01:53.783747",
+  "documents_count": 20,
+  "chunks_count": 313,
+  "total_words": 121201,
+  "average_chunk_size": 480.1693290734824,
+  "time_periods_covered": [
+    "1950s",
+    "1970s",
+    "2000s",
+    "2020s",
+    "1940s-1960s",
+    "1952-2022",
+    "2010s",
+    "1990s"
+  ],
+  "content_categories": [
+    "historical_event",
+    "biography",
+    "political",
+    "political_figures",
+    "royal_symbols",
+    "family",
+    "tradition",
+    "general"
+  ]
+}

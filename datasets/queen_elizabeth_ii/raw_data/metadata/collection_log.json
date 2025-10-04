@@ -1,0 +1,203 @@
+{
+  "collection_date": "2025-10-04T13:37:01.034748",
+  "total_items": 26,
+  "items": [
+    {
+      "source": "Wikipedia Main Article",
+      "title": "Elizabeth I",
+      "url": "https://en.wikipedia.org/wiki/Elizabeth_I",
+      "timestamp": "2025-10-04T13:36:30.589806",
+      "status": "success",
+      "word_count": 10989
+    },
+    {
+      "source": "Wikipedia Related Article",
+      "title": "Coronation of Elizabeth II",
+      "url": "https://en.wikipedia.org/wiki/Coronation_of_Elizabeth_II",
+      "timestamp": "2025-10-04T13:36:34.671763",
+      "status": "success",
+      "word_count": 5390
+    },
+    {
+      "source": "Wikipedia Related Article",
+      "title": "Death and state funeral of Elizabeth II",
+      "timestamp": "2025-10-04T13:36:36.708739",
+      "status": "not_found"
+    },
+    {
+      "source": "Wikipedia Related Article",
+      "title": "Silver Jubilee of Elizabeth II",
+      "url": "https://en.wikipedia.org/wiki/Silver_Jubilee_of_Elizabeth_II",
+      "timestamp": "2025-10-04T13:36:40.554094",
+      "status": "success",
+      "word_count": 2036
+    },
+    {
+      "source": "Wikipedia Related Article",
+      "title": "Golden Jubilee of Elizabeth II",
+      "url": "https://en.wikipedia.org/wiki/Golden_Jubilee_of_Elizabeth_II",
+      "timestamp": "2025-10-04T13:36:44.252553",
+      "status": "success",
+      "word_count": 4499
+    },
+    {
+      "source": "Wikipedia Related Article",
+      "title": "Diamond Jubilee of Elizabeth II",
+      "url": "https://en.wikipedia.org/wiki/Diamond_Jubilee_of_Elizabeth_II",
+      "timestamp": "2025-10-04T13:36:48.443725",
+      "status": "success",
+      "word_count": 9428
+    },
+    {
+      "source": "Wikipedia Related Article",
+      "title": "Platinum Jubilee of Elizabeth II",
+      "url": "https://en.wikipedia.org/wiki/Platinum_Jubilee_of_Elizabeth_II",
+      "timestamp": "2025-10-04T13:36:53.773076",
+      "status": "success",
+      "word_count": 18807
+    },
+    {
+      "source": "Wikipedia Related Article",
+      "title": "Royal Christmas message",
+      "url": "https://en.wikipedia.org/wiki/Royal_Christmas_message",
+      "timestamp": "2025-10-04T13:36:57.343466",
+      "status": "success",
+      "word_count": 1846
+    },
+    {
+      "source": "Wikipedia Related Article",
+      "title": "Flags of Elizabeth II",
+      "url": "https://en.wikipedia.org/wiki/Flags_of_Elizabeth_II",
+      "timestamp": "2025-10-04T13:37:01.027083",
+      "status": "success",
+      "word_count": 2102
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "Death and state funeral of Elizabeth II",
+      "url": "https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Elizabeth_II",
+      "timestamp": "2025-10-04T13:41:22.321322",
+      "status": "success",
+      "word_count": 11014
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "Royal Family Order of Elizabeth II",
+      "url": "https://en.wikipedia.org/wiki/Royal_Family_Order_of_Elizabeth_II",
+      "timestamp": "2025-10-04T13:41:25.878599",
+      "status": "success",
+      "word_count": 398
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "Annus horribilis",
+      "url": "https://en.wikipedia.org/wiki/Annus_horribilis",
+      "timestamp": "2025-10-04T13:41:29.246833",
+      "status": "success",
+      "word_count": 1192
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "Wedding of Princess Elizabeth and Philip Mountbatten",
+      "url": "https://en.wikipedia.org/wiki/Wedding_of_Princess_Elizabeth_and_Philip_Mountbatten",
+      "timestamp": "2025-10-04T13:41:33.215341",
+      "status": "success",
+      "word_count": 2865
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "List of British royal residences",
+      "url": "https://en.wikipedia.org/wiki/List_of_British_royal_residences",
+      "timestamp": "2025-10-04T13:41:36.994936",
+      "status": "success",
+      "word_count": 218
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "Prince Philip, Duke of Edinburgh",
+      "url": "https://en.wikipedia.org/wiki/Prince_Philip,_Duke_of_Edinburgh",
+      "timestamp": "2025-10-04T13:41:41.311166",
+      "status": "success",
+      "word_count": 7501
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "George VI",
+      "timestamp": "2025-10-04T13:52:01.530072",
+      "status": "not_found"
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "British royal family",
+      "url": "https://en.wikipedia.org/wiki/British_royal_family",
+      "timestamp": "2025-10-04T13:52:07.020326",
+      "status": "success",
+      "word_count": 2883
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "Commonwealth of Nations",
+      "url": "https://en.wikipedia.org/wiki/Commonwealth_of_Nations",
+      "timestamp": "2025-10-04T13:52:12.039956",
+      "status": "success",
+      "word_count": 9171
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "Monarchy of the United Kingdom",
+      "timestamp": "2025-10-04T13:52:13.996563",
+      "status": "not_found"
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "Cultural depictions of Elizabeth II",
+      "timestamp": "2025-10-04T13:52:15.878764",
+      "status": "not_found"
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "George V",
+      "url": "https://en.wikipedia.org/wiki/George_V",
+      "timestamp": "2025-10-04T13:52:47.046813",
+      "status": "success",
+      "word_count": 6624
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "Monarchy of the United Kingdom",
+      "timestamp": "2025-10-04T13:52:48.925267",
+      "status": "not_found"
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "Jewels of Elizabeth II",
+      "url": "https://en.wikipedia.org/wiki/Jewels_of_Elizabeth_II",
+      "timestamp": "2025-10-04T13:52:52.921590",
+      "status": "success",
+      "word_count": 7536
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "Royal family",
+      "url": "https://en.wikipedia.org/wiki/Royal_family",
+      "timestamp": "2025-10-04T13:52:56.597264",
+      "status": "success",
+      "word_count": 1409
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "Winston Churchill",
+      "url": "https://en.wikipedia.org/wiki/Winston_Churchill",
+      "timestamp": "2025-10-04T13:53:00.692040",
+      "status": "success",
+      "word_count": 15890
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "Margaret Thatcher",
+      "timestamp": "2025-10-04T13:53:02.541314",
+      "status": "not_found"
+    }
+  ],
+  "last_updated": "2025-10-04T13:53:02.550809"
+}

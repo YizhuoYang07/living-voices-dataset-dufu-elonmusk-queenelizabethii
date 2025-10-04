@@ -1,0 +1,42 @@
+{
+  "dataset_name": "Living Voices Dataset",
+  "version": "1.0.0",
+  "release_date": "2025-10-04",
+  "status": "stable",
+  "description": "A multi-persona historical dataset for training conversational AI models to embody distinct historical and contemporary figures",
+  "personas": {
+    "du_fu": {
+      "name": "Du Fu (杜甫)",
+      "era": "Tang Dynasty (712-770 CE)",
+      "language": "Classical Chinese",
+      "version": "1.0.0"
+    },
+    "elon_musk": {
+      "name": "Elon Musk",
+      "era": "Contemporary (1971-present)",
+      "language": "English",
+      "version": "1.0.0"
+    },
+    "queen_elizabeth_ii": {
+      "name": "Queen Elizabeth II",
+      "era": "Modern (1926-2022)",
+      "language": "English",
+      "version": "1.0.0"
+    }
+  },
+  "compatibility": {
+    "format": "JSON",
+    "encoding": "UTF-8",
+    "schema_version": "1.0",
+    "minimum_python_version": "3.8"
+  },
+  "maintainers": [
+    {
+      "name": "Living Voices Project Team",
+      "affiliation": "UTS 36118 Applied Natural Language Processing",
+      "year": "2025"
+    }
+  ],
+  "license": "Educational Use",
+  "citation": "Living Voices Dataset v1.0.0 (2025). UTS Applied Natural Language Processing Project."
+}

@@ -1,0 +1,21 @@
+{
+  "processing_statistics": {
+    "start_time": "2025-10-04T14:01:53.744443",
+    "raw_sources": 20,
+    "processed_documents": 20,
+    "total_chunks": 313,
+    "total_tokens": 0,
+    "end_time": "2025-10-04T14:01:53.783893"
+  },
+  "output_files": {
+    "structured_documents": "structured_documents.json",
+    "training_chunks": "training_chunks.json",
+    "dataset_metadata": "dataset_metadata.json"
+  },
+  "quality_metrics": {
+    "documents_processed": 20,
+    "chunks_created": 313,
+    "average_chunk_size": "~500 words",
+    "chunk_overlap": "100 words"
+  }
+}

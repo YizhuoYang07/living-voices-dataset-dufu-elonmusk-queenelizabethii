@@ -1,0 +1,23 @@
+{
+  "collection_date": "2025-10-04T13:37:01.034988",
+  "total_sources": 8,
+  "main_biography": {
+    "words": 10989,
+    "characters": 66527
+  },
+  "related_articles": {
+    "count": 7,
+    "total_words": 44108
+  },
+  "totals": {
+    "words": 55097,
+    "characters": 337271,
+    "estimated_tokens": 42382
+  },
+  "status": {
+    "target_tokens": 75000,
+    "current_tokens": 42382,
+    "progress_percent": 56.51,
+    "tokens_needed": 32618
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "collection_date": "2025-10-04T14:49:43.892969",
+  "author": "Du Fu (杜甫)",
+  "total_articles": 14,
+  "successful_collections": 14,
+  "failed_collections": 0,
+  "total_words": 98056,
+  "total_characters": 610563,
+  "categories": {
+    "biography": {
+      "count": 3,
+      "total_words": 13438
+    },
+    "history": {
+      "count": 2,
+      "total_words": 21928
+    },
+    "literature": {
+      "count": 4,
+      "total_words": 11821
+    },
+    "geography": {
+      "count": 2,
+      "total_words": 20731
+    },
+    "philosophy": {
+      "count": 3,
+      "total_words": 30138
+    }
+  },
+  "articles_by_title": [
+    "Du Fu",
+    "Tang dynasty",
+    "An Lushan rebellion",
+    "Chinese poetry",
+    "Classical Chinese poetry",
+    "Tang poetry",
+    "Li Bai",
+    "Wang Wei",
+    "Regulated verse",
+    "Chengdu",
+    "Chang'an",
+    "Confucianism",
+    "Buddhism in China",
+    "Taoism"
+  ]
+}

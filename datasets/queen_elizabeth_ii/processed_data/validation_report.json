@@ -1,0 +1,24 @@
+{
+  "dataset": "queen_elizabeth_ii",
+  "validation_date": "2025-10-04T15:42:35.686026",
+  "total_documents": 22,
+  "total_chunks": 341,
+  "document_types": {
+    "biography": 1,
+    "related_articles": 19,
+    "speech_supplement": 2
+  },
+  "newly_added": {
+    "documents": 2,
+    "chunks": 28,
+    "titles": [
+      "Elizabeth II",
+      "COVID-19 pandemic in the United Kingdom"
+    ]
+  },
+  "coverage": {
+    "raw_sources_total": 23,
+    "processed_documents": 22,
+    "coverage_percentage": 95.65
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "timestamp": "2025-10-04T13:53:08.907138",
+  "checks": [
+    {
+      "check": "directory_structure",
+      "item": "raw_data",
+      "status": "pass"
+    },
+    {
+      "check": "directory_structure",
+      "item": "wikipedia",
+      "status": "pass"
+    },
+    {
+      "check": "directory_structure",
+      "item": "speeches",
+      "status": "pass"
+    },
+    {
+      "check": "directory_structure",
+      "item": "metadata",
+      "status": "pass"
+    },
+    {
+      "check": "wikipedia_biography",
+      "status": "pass",
+      "word_count": 10989
+    },
+    {
+      "check": "wikipedia_related",
+      "status": "pass",
+      "article_count": 19,
+      "total_words": 110809
+    }
+  ],
+  "errors": [],
+  "warnings": [],
+  "statistics": {
+    "total_sources": 20,
+    "total_words": 121798,
+    "estimated_tokens": 93690,
+    "wikipedia_sources": 20,
+    "speech_sources": 0,
+    "target_tokens": 75000,
+    "progress_percent": 124.92,
+    "tokens_remaining": 0
+  }
+}

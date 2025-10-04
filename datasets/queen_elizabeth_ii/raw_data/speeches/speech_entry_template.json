@@ -1,0 +1,46 @@
+{
+  "collection_info": {
+    "purpose": "Manual entry template for Queen Elizabeth II speeches",
+    "date_created": "2025-10-04T13:37:46.459566",
+    "categories": {
+      "christmas_broadcast": "Annual Christmas Day broadcasts",
+      "state_opening": "State Opening of Parliament addresses",
+      "commonwealth_day": "Commonwealth Day messages",
+      "jubilee": "Jubilee celebrations speeches",
+      "war_memorial": "Remembrance and war memorial addresses",
+      "state_visit": "State visit speeches",
+      "special_occasion": "Special occasions and events"
+    }
+  },
+  "example_entries": [
+    {
+      "title": "Christmas Broadcast 1952",
+      "date": "1952-12-25",
+      "year": 1952,
+      "category": "christmas_broadcast",
+      "occasion": "First Christmas Broadcast as Queen",
+      "location": "Sandringham House",
+      "content": "[Insert full speech text here]",
+      "word_count": 5,
+      "character_count": 30,
+      "source": {
+        "url": "https://www.royal.uk/...",
+        "access_date": "2025-10-04T13:37:46.459573",
+        "copyright_status": "public_domain"
+      },
+      "metadata": {
+        "reign_period": "early_reign",
+        "historical_context": "First broadcast after accession in February 1952",
+        "created_timestamp": "2025-10-04T13:37:46.459576"
+      }
+    }
+  ],
+  "instructions": {
+    "1_collect": "Gather speech texts from official sources",
+    "2_enter": "Copy speech text into 'content' field",
+    "3_metadata": "Fill in all metadata fields accurately",
+    "4_verify": "Double-check dates and sources",
+    "5_save": "Save as JSON in appropriate subfolder"
+  },
+  "speeches": []
+}

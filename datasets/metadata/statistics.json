@@ -1,0 +1,136 @@
+{
+  "generated_date": "2025-10-04T15:47:36.575986",
+  "dataset_version": "1.0.0",
+  "overview": {
+    "total_personas": 3,
+    "total_documents": 1566,
+    "total_chunks": 3886,
+    "total_words": 765664,
+    "languages": [
+      "Classical Chinese",
+      "English"
+    ],
+    "time_periods": [
+      "Tang Dynasty (712-770 CE)",
+      "Modern (1926-2022)",
+      "Contemporary (1971-present)"
+    ],
+    "note": "Du Fu count in characters (Classical Chinese), others in words"
+  },
+  "personas": {
+    "du_fu": {
+      "display_name": "Du Fu (杜甫)",
+      "type": "historical_poet",
+      "language": "Classical Chinese",
+      "era": "Tang Dynasty (712-770 CE)",
+      "documents": {
+        "total": 1496,
+        "source_type": "classical_poetry",
+        "poems": 1496
+      },
+      "chunks": {
+        "total": 3449,
+        "average_per_document": 2.31
+      },
+      "content": {
+        "total_words": 431083,
+        "average_words_per_chunk": 125.0,
+        "characteristics": [
+          "classical_poetry",
+          "Tang_dynasty",
+          "Chinese_literature"
+        ],
+        "note": "Character count for Classical Chinese text"
+      }
+    },
+    "elon_musk": {
+      "display_name": "Elon Musk",
+      "type": "contemporary_entrepreneur",
+      "language": "English",
+      "era": "Contemporary (1971-present)",
+      "documents": {
+        "total": 48,
+        "biography": 1,
+        "related_articles": 24,
+        "supplementary_materials": 23
+      },
+      "chunks": {
+        "total": 96,
+        "average_per_document": 2.0
+      },
+      "content": {
+        "total_words": 321176,
+        "average_words_per_chunk": 3345.6,
+        "characteristics": [
+          "business",
+          "technology",
+          "innovation",
+          "entrepreneurship"
+        ]
+      }
+    },
+    "queen_elizabeth_ii": {
+      "display_name": "Queen Elizabeth II",
+      "type": "historical_monarch",
+      "language": "English",
+      "era": "Modern (1926-2022)",
+      "documents": {
+        "total": 22,
+        "biography": 1,
+        "related_articles": 19,
+        "speeches": 2
+      },
+      "chunks": {
+        "total": 341,
+        "average_per_document": 15.5
+      },
+      "content": {
+        "total_words": 13405,
+        "average_words_per_chunk": 39.3,
+        "characteristics": [
+          "royalty",
+          "British_history",
+          "diplomacy",
+          "public_service"
+        ]
+      }
+    }
+  },
+  "quality_metrics": {
+    "data_coverage": "100%",
+    "unique_sources": 1566,
+    "data_validation": "passed",
+    "format_consistency": "verified"
+  },
+  "distribution": {
+    "by_language": {
+      "Classical Chinese": {
+        "documents": 1496,
+        "chunks": 3449,
+        "percentage": 88.8
+      },
+      "English": {
+        "documents": 70,
+        "chunks": 437,
+        "percentage": 11.2
+      }
+    },
+    "by_era": {
+      "Ancient (Tang Dynasty)": {
+        "personas": [
+          "du_fu"
+        ],
+        "documents": 1496,
+        "chunks": 3449
+      },
+      "Modern (20th-21st Century)": {
+        "personas": [
+          "elon_musk",
+          "queen_elizabeth_ii"
+        ],
+        "documents": 70,
+        "chunks": 437
+      }
+    }
+  }
+}

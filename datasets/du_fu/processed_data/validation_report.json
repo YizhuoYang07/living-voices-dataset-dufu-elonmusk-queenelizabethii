@@ -1,0 +1,28 @@
+{
+  "dataset_name": "Du Fu",
+  "validation_date": "2025-10-04T15:23:29.724336",
+  "status": "passed",
+  "statistics": {
+    "total_documents": 1496,
+    "total_chunks": 3449,
+    "total_words": 0,
+    "total_characters": 0,
+    "total_tokens": 558867,
+    "document_types": {
+      "poem": 1496
+    },
+    "categories": {
+      "general": 1496
+    },
+    "chunk_types": {
+      "unknown": 3449
+    }
+  },
+  "issues": [],
+  "warnings": [],
+  "summary": {
+    "total_issues": 0,
+    "total_warnings": 0,
+    "validation_passed": true
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "timestamp": "2025-10-04T14:08:46.446970",
+  "checks": [
+    {
+      "check": "directory_structure",
+      "item": "raw_data",
+      "status": "pass"
+    },
+    {
+      "check": "directory_structure",
+      "item": "raw_data/wikipedia",
+      "status": "pass"
+    },
+    {
+      "check": "directory_structure",
+      "item": "raw_data/speeches",
+      "status": "pass"
+    },
+    {
+      "check": "directory_structure",
+      "item": "raw_data/metadata",
+      "status": "pass"
+    },
+    {
+      "check": "directory_structure",
+      "item": "processed_data",
+      "status": "pass"
+    },
+    {
+      "check": "raw_data_file",
+      "item": "Biography",
+      "status": "pass",
+      "size_kb": 140.25
+    },
+    {
+      "check": "raw_data_file",
+      "item": "Related articles",
+      "status": "pass",
+      "size_kb": 702.88
+    },
+    {
+      "check": "raw_data_file",
+      "item": "Collection log",
+      "status": "pass",
+      "size_kb": 6.64
+    },
+    {
+      "check": "raw_data_file",
+      "item": "Validation report",
+      "status": "pass",
+      "size_kb": 0.95
+    },
+    {
+      "check": "processed_data_file",
+      "item": "Structured documents",
+      "status": "pass",
+      "size_kb": 776.52
+    },
+    {
+      "check": "processed_data_file",
+      "item": "Training chunks",
+      "status": "pass",
+      "size_kb": 1110.3
+    },
+    {
+      "check": "processed_data_file",
+      "item": "Dataset metadata",
+      "status": "pass",
+      "size_kb": 0.52
+    },
+    {
+      "check": "processed_data_file",
+      "item": "Processing report",
+      "status": "pass",
+      "size_kb": 0.55
+    },
+    {
+      "check": "documentation",
+      "item": "Main README",
+      "status": "pass",
+      "size_kb": 5.93
+    },
+    {
+      "check": "documentation",
+      "item": "Project summary",
+      "status": "pass",
+      "size_kb": 17.56
+    },
+    {
+      "check": "documentation",
+      "item": "Collection report",
+      "status": "pass",
+      "size_kb": 12.16
+    },
+    {
+      "check": "documentation",
+      "item": "Quick reference",
+      "status": "pass",
+      "size_kb": 2.65
+    },
+    {
+      "check": "data_consistency",
+      "item": "document_count",
+      "status": "pass"
+    },
+    {
+      "check": "data_consistency",
+      "item": "chunk_coverage",
+      "status": "pass"
+    }
+  ],
+  "errors": [],
+  "warnings": [],
+  "summary": {
+    "tokens_collected": 93690,
+    "token_target": 75000,
+    "progress_percent": 124.92,
+    "total_sources": 20
+  },
+  "final_status": {
+    "checks_passed": 19,
+    "total_checks": 19,
+    "errors": 0,
+    "warnings": 0,
+    "dataset_ready": true
+  }
+}

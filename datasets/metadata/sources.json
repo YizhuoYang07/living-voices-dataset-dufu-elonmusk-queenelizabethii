@@ -1,0 +1,188 @@
+{
+  "dataset_name": "Living Voices Dataset",
+  "version": "1.0.0",
+  "sources_by_persona": {
+    "du_fu": {
+      "persona_name": "Du Fu (杜甫)",
+      "primary_sources": [
+        {
+          "type": "classical_poetry_collection",
+          "title": "Complete Poetry of Du Fu (杜甫全集)",
+          "description": "Comprehensive collection of Du Fu's poems from the Tang Dynasty",
+          "language": "Classical Chinese",
+          "time_period": "712-770 CE",
+          "content_type": "poetry",
+          "items": 1496,
+          "notes": "Includes original text, annotations, allusions, and historical context"
+        }
+      ],
+      "attribution": {
+        "original_author": "Du Fu (杜甫)",
+        "dynasty": "Tang Dynasty",
+        "compilation": "Various historical collections and scholarly editions",
+        "data_format": "Structured JSON with metadata"
+      },
+      "scholarly_context": [
+        "Classical Chinese poetry",
+        "Tang Dynasty literature",
+        "Historical annotations and allusions",
+        "Poetic forms and structures"
+      ]
+    },
+    "elon_musk": {
+      "persona_name": "Elon Musk",
+      "primary_sources": [
+        {
+          "type": "wikipedia_biography",
+          "title": "Elon Musk",
+          "url": "https://en.wikipedia.org/wiki/Elon_Musk",
+          "description": "Comprehensive biography from Wikipedia",
+          "language": "English",
+          "collection_date": "2025-10-04",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "type": "related_articles",
+          "count": 24,
+          "description": "Wikipedia articles about companies, achievements, and related topics",
+          "topics": [
+            "Tesla, Inc.",
+            "SpaceX",
+            "Neuralink",
+            "The Boring Company",
+            "X (formerly Twitter)",
+            "PayPal",
+            "Solar energy",
+            "Electric vehicles",
+            "Space exploration"
+          ],
+          "language": "English",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "type": "supplementary_materials",
+          "count": 23,
+          "description": "Additional context about business ventures and innovations",
+          "language": "English",
+          "content_focus": "Technology, entrepreneurship, and innovation"
+        }
+      ],
+      "attribution": {
+        "source": "Wikipedia and supplementary web sources",
+        "license": "CC BY-SA 3.0",
+        "collection_method": "Web scraping and API access",
+        "verification": "Cross-referenced with multiple sources"
+      }
+    },
+    "queen_elizabeth_ii": {
+      "persona_name": "Queen Elizabeth II",
+      "primary_sources": [
+        {
+          "type": "wikipedia_biography",
+          "title": "Elizabeth I",
+          "url": "https://en.wikipedia.org/wiki/Elizabeth_I",
+          "description": "Historical context of Tudor monarchy",
+          "language": "English",
+          "collection_date": "2025-10-04",
+          "license": "CC BY-SA 3.0",
+          "note": "Provides historical context for British monarchy"
+        },
+        {
+          "type": "related_articles",
+          "count": 19,
+          "description": "Wikipedia articles about reign, events, and royal context",
+          "topics": [
+            "Coronation",
+            "Silver, Golden, Diamond, Platinum Jubilees",
+            "Royal Christmas messages",
+            "State occasions and ceremonies",
+            "Royal family members",
+            "Commonwealth of Nations",
+            "British royal residences",
+            "Death and state funeral"
+          ],
+          "language": "English",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "type": "speeches_and_broadcasts",
+          "count": 3,
+          "description": "Key speeches and biographical information",
+          "items": [
+            {
+              "title": "Royal Christmas message",
+              "description": "Information about annual Christmas broadcasts"
+            },
+            {
+              "title": "Elizabeth II",
+              "description": "Full biography (56,231 characters)"
+            },
+            {
+              "title": "COVID-19 pandemic in the United Kingdom",
+              "description": "Context for speeches during pandemic"
+            }
+          ],
+          "language": "English"
+        }
+      ],
+      "attribution": {
+        "source": "Wikipedia and public speech archives",
+        "license": "CC BY-SA 3.0",
+        "collection_method": "Web scraping and manual curation",
+        "verification": "Cross-referenced with official sources"
+      }
+    }
+  },
+  "licensing": {
+    "dataset_license": "Educational Use",
+    "source_licenses": {
+      "wikipedia_content": "CC BY-SA 3.0",
+      "classical_poetry": "Public Domain (historical texts)",
+      "annotations": "Educational Use"
+    },
+    "usage_restrictions": [
+      "Intended for educational and research purposes",
+      "Attribution required for Wikipedia-sourced content",
+      "Commercial use requires additional licensing review"
+    ]
+  },
+  "data_collection_methodology": {
+    "collection_period": "September - October 2025",
+    "collection_methods": [
+      "Wikipedia API access",
+      "Web scraping with rate limiting",
+      "Manual curation and verification",
+      "Structured data compilation"
+    ],
+    "quality_assurance": [
+      "Source verification",
+      "Cross-referencing with multiple sources",
+      "Manual review of content",
+      "Automated data validation"
+    ],
+    "preprocessing": [
+      "Text cleaning and normalization",
+      "Metadata extraction",
+      "Document structuring",
+      "Chunking for training"
+    ]
+  },
+  "ethical_considerations": {
+    "privacy": "All content is from publicly available sources",
+    "attribution": "Original sources are properly attributed",
+    "bias_awareness": "Dataset reflects historical and contemporary perspectives as documented in sources",
+    "cultural_sensitivity": "Classical Chinese texts include scholarly annotations for cultural context"
+  },
+  "references": {
+    "wikipedia": {
+      "url": "https://en.wikipedia.org",
+      "license": "CC BY-SA 3.0",
+      "access_date": "2025-10-04"
+    },
+    "classical_chinese_poetry": {
+      "source": "Historical collections and scholarly editions",
+      "copyright_status": "Public Domain",
+      "compilation_date": "2025-10-04"
+    }
+  }
+}

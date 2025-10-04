@@ -1,0 +1,85 @@
+MIT License
+
+Copyright (c) 2024 Yizhuo (Ricki) Yang
+University of Technology Sydney (UTS)
+36118 Applied Natural Language Processing
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+
+ADDITIONAL TERMS FOR DATASET CONTENT:
+
+1. SOURCE ATTRIBUTION:
+   All original content remains the property of respective copyright holders.
+   This license applies only to the dataset compilation, processing scripts,
+   and derivative annotations created by the Living Voices Dataset project.
+
+2. ACADEMIC USE:
+   This dataset is primarily intended for academic research and educational
+   purposes. Commercial use is permitted under the MIT license terms, but
+   users are encouraged to contact the maintainers for guidance on
+   appropriate commercial applications.
+
+3. ETHICAL USAGE:
+   Users of this dataset agree to:
+   - Use the data responsibly and ethically
+   - Not generate harmful, misleading, or defamatory content
+   - Respect the dignity and memory of represented historical figures
+   - Acknowledge the limitations and potential biases in the dataset
+   - Clearly label AI-generated content as "inspired by" rather than "from"
+
+4. DATA SOURCES AND LICENSING:
+   Individual data sources have specific licensing terms:
+   
+   a) Du Fu Poetry (712-770 CE):
+      - Status: Public Domain (over 1,250 years old)
+      - Usage: Unrestricted for research and educational purposes
+   
+   b) Elon Musk Content (1971-present):
+      - Status: Fair Use - Educational/Research Purpose
+      - Sources: Wikipedia (CC BY-SA 3.0), news articles (fair use)
+      - Usage: Research and educational purposes only
+      - Commercial use requires additional review
+   
+   c) Queen Elizabeth II Content (1926-2022):
+      - Status: Fair Use - Educational/Research Purpose
+      - Sources: Wikipedia (CC BY-SA 3.0), public domain speeches
+      - Usage: Research and educational purposes only
+      - Commercial use requires additional review
+   
+   Users are responsible for ensuring compliance with all applicable
+   licenses and terms of use for the original source materials.
+
+5. CITATION REQUIREMENT:
+   Academic and research usage requires proper citation of the dataset.
+   See README.md for the complete citation format.
+
+6. NO ENDORSEMENT:
+   The inclusion of any person's content in this dataset does not imply
+   endorsement of this project by that person or their estate.
+
+7. DISCLAIMER:
+   Users are responsible for ensuring their use of this dataset complies
+   with applicable laws and regulations in their jurisdiction.
+
+================================================================================
+
+For questions about licensing or usage, please contact:
+- GitHub Issues: https://github.com/YizhuoYang07/living-voices-dataset-dufu-elonmusk-queenelizabethii/issues

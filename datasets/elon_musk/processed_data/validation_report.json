@@ -1,0 +1,44 @@
+{
+  "dataset_name": "Elon Musk",
+  "validation_date": "2025-10-04T15:18:48.393098",
+  "status": "passed",
+  "statistics": {
+    "total_documents": 48,
+    "total_chunks": 96,
+    "total_words": 307558,
+    "total_characters": 912455,
+    "total_tokens": 1101561,
+    "document_types": {
+      "biography": 1,
+      "context": 24,
+      "supplementary": 23
+    },
+    "categories": {
+      "main_biography": 1,
+      "general": 24,
+      "spacex": 2,
+      "tesla": 4,
+      "neuralink": 1,
+      "boring": 1,
+      "twitter": 1,
+      "interview": 2,
+      "philosophy": 1,
+      "vision": 2,
+      "ai": 1,
+      "context": 3,
+      "technology": 2,
+      "strategy": 3
+    },
+    "chunk_types": {
+      "full_article": 48,
+      "summary": 48
+    }
+  },
+  "issues": [],
+  "warnings": [],
+  "summary": {
+    "total_issues": 0,
+    "total_warnings": 0,
+    "validation_passed": true
+  }
+}

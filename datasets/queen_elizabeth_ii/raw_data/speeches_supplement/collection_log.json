@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Royal Christmas Message",
+    "status": "success",
+    "word_count": 1846,
+    "timestamp": "2025-10-04T15:01:57.229073"
+  },
+  {
+    "title": "Elizabeth II",
+    "status": "success",
+    "word_count": 9104,
+    "timestamp": "2025-10-04T15:02:01.130208"
+  },
+  {
+    "title": "Queen Elizabeth II Christmas Broadcasts",
+    "status": "not_found",
+    "timestamp": "2025-10-04T15:02:02.894357"
+  },
+  {
+    "title": "1947 Elizabeth II 21st birthday speech",
+    "status": "not_found",
+    "timestamp": "2025-10-04T15:02:04.679938"
+  },
+  {
+    "title": "1997 Diana Princess of Wales death",
+    "status": "not_found",
+    "timestamp": "2025-10-04T15:02:06.447922"
+  },
+  {
+    "title": "2002 Golden Jubilee of Elizabeth II",
+    "status": "not_found",
+    "timestamp": "2025-10-04T15:02:08.239289"
+  },
+  {
+    "title": "2012 Diamond Jubilee of Elizabeth II",
+    "status": "not_found",
+    "timestamp": "2025-10-04T15:02:10.012032"
+  },
+  {
+    "title": "2020 coronavirus pandemic in the United Kingdom",
+    "status": "success",
+    "word_count": 3001,
+    "timestamp": "2025-10-04T15:02:15.208697"
+  },
+  {
+    "title": "2022 Platinum Jubilee of Elizabeth II",
+    "status": "not_found",
+    "timestamp": "2025-10-04T15:02:17.246215"
+  }
+]

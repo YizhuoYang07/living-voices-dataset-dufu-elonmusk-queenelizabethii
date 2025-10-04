@@ -1,0 +1,65 @@
+{
+  "processing_date": "2025-10-04T14:32:58.840453",
+  "input_file": "dufu_poems_full.json",
+  "output_directory": "/Users/rickiyang/Documents/UTS/36118-Applied Natural Language Processing/AT2/living-voices-dataset/datasets/du_fu/processed_data",
+  "source_statistics": {
+    "total_poems": 1496,
+    "author": "杜甫",
+    "author_id": "17270"
+  },
+  "document_statistics": {
+    "total_documents": 1496,
+    "total_characters": 144721,
+    "average_characters_per_poem": 96.74,
+    "poems_with_allusions": 701,
+    "poems_with_allusions_percentage": 46.86,
+    "poems_with_annotations": 1252,
+    "poems_with_annotations_percentage": 83.69
+  },
+  "content_distribution": {
+    "poem_types": {
+      "律詩": 762,
+      "絶句": 94,
+      "排律": 132,
+      "古風": 463,
+      "四言詩": 1,
+      "句": 4,
+      "樂府曲辭": 8,
+      "辭賦": 7,
+      "文": 25
+    },
+    "top_5_poem_types": [
+      [
+        "律詩",
+        762
+      ],
+      [
+        "古風",
+        463
+      ],
+      [
+        "排律",
+        132
+      ],
+      [
+        "絶句",
+        94
+      ],
+      [
+        "文",
+        25
+      ]
+    ],
+    "time_periods": 69,
+    "unique_places": 87
+  },
+  "chunk_statistics": {
+    "total_chunks": 3449,
+    "chunk_types": {
+      "poem_content": 1496,
+      "allusions_context": 701,
+      "annotations_context": 1252
+    },
+    "average_chunks_per_poem": 2.31
+  }
+}

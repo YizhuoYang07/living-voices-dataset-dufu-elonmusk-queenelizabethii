@@ -1,0 +1,15 @@
+{
+  "dataset_name": "Du Fu Poetry Collection",
+  "author": "杜甫 (Du Fu)",
+  "author_id": "17270",
+  "total_poems": 1496,
+  "total_documents": 1496,
+  "total_chunks": 3449,
+  "language": "Classical Chinese",
+  "time_period": "712-770 CE",
+  "dynasty": "Tang Dynasty",
+  "extraction_date": "2025-10-04T14:31:18.538790",
+  "processing_date": "2025-10-04T14:32:58.839398",
+  "source_database": "CNKGraph.Writings.xml",
+  "project": "Living Voices - RAG-based Dialogue System"
+}

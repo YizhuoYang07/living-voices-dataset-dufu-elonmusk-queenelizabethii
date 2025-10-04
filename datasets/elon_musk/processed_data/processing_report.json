@@ -1,0 +1,40 @@
+{
+  "processing_date": "2025-10-04T15:18:01.807057",
+  "dataset": "Elon Musk",
+  "status": "complete",
+  "statistics": {
+    "total_documents": 48,
+    "total_chunks": 96,
+    "total_words": 307558,
+    "total_characters": 912455,
+    "estimated_tokens": 1003700
+  },
+  "document_breakdown": {
+    "biography": 1,
+    "context": 24,
+    "supplementary": 23
+  },
+  "category_breakdown": {
+    "main_biography": 1,
+    "general": 24,
+    "spacex": 2,
+    "tesla": 4,
+    "neuralink": 1,
+    "boring": 1,
+    "twitter": 1,
+    "interview": 2,
+    "philosophy": 1,
+    "vision": 2,
+    "ai": 1,
+    "context": 3,
+    "technology": 2,
+    "strategy": 3
+  },
+  "processing_steps": [
+    "Loaded main biography",
+    "Loaded related articles",
+    "Loaded supplementary materials",
+    "Generated training chunks",
+    "Saved all processed data"
+  ]
+}

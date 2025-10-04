@@ -1,0 +1,150 @@
+[
+  {
+    "title": "SpaceX Starship",
+    "status": "success",
+    "word_count": 10469,
+    "timestamp": "2025-10-04T15:03:09.166814"
+  },
+  {
+    "title": "SpaceX Falcon 9",
+    "status": "success",
+    "word_count": 6137,
+    "timestamp": "2025-10-04T15:03:13.874288"
+  },
+  {
+    "title": "Tesla Autopilot",
+    "status": "success",
+    "word_count": 11990,
+    "timestamp": "2025-10-04T15:03:18.225828"
+  },
+  {
+    "title": "Tesla Model S",
+    "status": "success",
+    "word_count": 6618,
+    "timestamp": "2025-10-04T15:03:22.278440"
+  },
+  {
+    "title": "Tesla Model 3",
+    "status": "success",
+    "word_count": 6314,
+    "timestamp": "2025-10-04T15:03:26.152919"
+  },
+  {
+    "title": "Tesla Gigafactory",
+    "status": "success",
+    "word_count": 384,
+    "timestamp": "2025-10-04T15:03:30.462974"
+  },
+  {
+    "title": "Neuralink",
+    "status": "success",
+    "word_count": 3117,
+    "timestamp": "2025-10-04T15:03:34.315511"
+  },
+  {
+    "title": "The Boring Company",
+    "status": "success",
+    "word_count": 2823,
+    "timestamp": "2025-10-04T15:03:37.999598"
+  },
+  {
+    "title": "Acquisition of Twitter by Elon Musk",
+    "status": "success",
+    "word_count": 8604,
+    "timestamp": "2025-10-04T15:03:42.608467"
+  },
+  {
+    "title": "Elon Musk's Tesla SEC settlement",
+    "status": "not_found",
+    "timestamp": "2025-10-04T15:03:44.451003"
+  },
+  {
+    "title": "The Joe Rogan Experience",
+    "status": "success",
+    "word_count": 3603,
+    "timestamp": "2025-10-04T15:03:48.296425"
+  },
+  {
+    "title": "TED (conference)",
+    "status": "success",
+    "word_count": 2730,
+    "timestamp": "2025-10-04T15:03:52.053036"
+  },
+  {
+    "title": "First principles",
+    "status": "success",
+    "word_count": 2007,
+    "timestamp": "2025-10-04T15:03:56.364012"
+  },
+  {
+    "title": "Mars colonization",
+    "status": "success",
+    "word_count": 7792,
+    "timestamp": "2025-10-04T15:04:01.384776"
+  },
+  {
+    "title": "Sustainable energy",
+    "status": "success",
+    "word_count": 7082,
+    "timestamp": "2025-10-04T15:04:05.290581"
+  },
+  {
+    "title": "Artificial general intelligence",
+    "status": "success",
+    "word_count": 7270,
+    "timestamp": "2025-10-04T15:04:08.959476"
+  },
+  {
+    "title": "Jeff Bezos",
+    "status": "success",
+    "word_count": 8075,
+    "timestamp": "2025-10-04T15:04:12.919280"
+  },
+  {
+    "title": "Richard Branson",
+    "status": "success",
+    "word_count": 8291,
+    "timestamp": "2025-10-04T15:04:17.014545"
+  },
+  {
+    "title": "Steve Jobs",
+    "status": "success",
+    "word_count": 12499,
+    "timestamp": "2025-10-04T15:04:21.413349"
+  },
+  {
+    "title": "Electric battery",
+    "status": "success",
+    "word_count": 5794,
+    "timestamp": "2025-10-04T15:04:25.292217"
+  },
+  {
+    "title": "Rocket reusability",
+    "status": "not_found",
+    "timestamp": "2025-10-04T15:04:27.081947"
+  },
+  {
+    "title": "Autonomous driving",
+    "status": "success",
+    "word_count": 6221,
+    "timestamp": "2025-10-04T15:04:31.807477"
+  },
+  {
+    "title": "Vertical integration",
+    "status": "success",
+    "word_count": 4825,
+    "timestamp": "2025-10-04T15:04:35.655321"
+  },
+  {
+    "title": "Innovation",
+    "status": "success",
+    "word_count": 6415,
+    "timestamp": "2025-10-04T15:04:39.552674"
+  },
+  {
+    "title": "Disruptive innovation",
+    "status": "success",
+    "word_count": 4083,
+    "timestamp": "2025-10-04T15:04:43.342123"
+  }
+]

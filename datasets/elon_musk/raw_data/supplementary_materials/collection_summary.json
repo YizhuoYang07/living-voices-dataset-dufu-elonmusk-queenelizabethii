@@ -1,0 +1,86 @@
+{
+  "collection_date": "2025-10-04T15:04:44.356328",
+  "person": "Elon Musk",
+  "content_type": "Supplementary Materials (Companies, Technology, Philosophy)",
+  "total_articles": 23,
+  "successful_collections": 23,
+  "failed_collections": 2,
+  "total_words": 143143,
+  "total_characters": 912455,
+  "estimated_tokens": 1003700,
+  "categories": {
+    "spacex": {
+      "count": 2,
+      "total_words": 16606
+    },
+    "tesla": {
+      "count": 4,
+      "total_words": 25306
+    },
+    "neuralink": {
+      "count": 1,
+      "total_words": 3117
+    },
+    "boring": {
+      "count": 1,
+      "total_words": 2823
+    },
+    "twitter": {
+      "count": 1,
+      "total_words": 8604
+    },
+    "interview": {
+      "count": 2,
+      "total_words": 6333
+    },
+    "philosophy": {
+      "count": 1,
+      "total_words": 2007
+    },
+    "vision": {
+      "count": 2,
+      "total_words": 14874
+    },
+    "ai": {
+      "count": 1,
+      "total_words": 7270
+    },
+    "context": {
+      "count": 3,
+      "total_words": 28865
+    },
+    "technology": {
+      "count": 2,
+      "total_words": 12015
+    },
+    "strategy": {
+      "count": 3,
+      "total_words": 15323
+    }
+  },
+  "articles_by_title": [
+    "SpaceX Starship",
+    "Falcon 9",
+    "Tesla Autopilot",
+    "Tesla Model S",
+    "Tesla Model 3",
+    "Gigafactory",
+    "Neuralink",
+    "The Boring Company",
+    "Acquisition of Twitter by Elon Musk",
+    "The Joe Rogan Experience",
+    "TED (conference)",
+    "First principle",
+    "Colonization of Mars",
+    "Sustainable energy",
+    "Artificial general intelligence",
+    "Jeff Bezos",
+    "Richard Branson",
+    "Steve Jobs",
+    "Electric battery",
+    "Vehicular automation",
+    "Vertical integration",
+    "Innovation",
+    "Disruptive innovation"
+  ]
+}

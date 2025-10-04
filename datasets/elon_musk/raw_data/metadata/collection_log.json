@@ -1,0 +1,253 @@
+{
+  "collection_date": "2025-10-04T14:16:12.523254",
+  "total_items": 31,
+  "items": [
+    {
+      "source": "Wikipedia Main Article",
+      "title": "Elon Musk",
+      "url": "https://en.wikipedia.org/wiki/Elon_Musk",
+      "timestamp": "2025-10-04T14:15:26.242832",
+      "status": "success",
+      "word_count": 7295
+    },
+    {
+      "source": "Wikipedia Related Article",
+      "title": "Tesla, Inc.",
+      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+      "timestamp": "2025-10-04T14:15:30.047232",
+      "status": "success",
+      "word_count": 14125
+    },
+    {
+      "source": "Wikipedia Related Article",
+      "title": "Space",
+      "url": "https://en.wikipedia.org/wiki/Space",
+      "timestamp": "2025-10-04T14:15:33.508262",
+      "status": "success",
+      "word_count": 3566
+    },
+    {
+      "source": "Wikipedia Related Article",
+      "title": "PayPal",
+      "timestamp": "2025-10-04T14:15:35.379571",
+      "status": "not_found"
+    },
+    {
+      "source": "Wikipedia Related Article",
+      "title": "Neuralink",
+      "timestamp": "2025-10-04T14:15:37.062571",
+      "status": "not_found"
+    },
+    {
+      "source": "Wikipedia Related Article",
+      "title": "The Boring Company",
+      "timestamp": "2025-10-04T14:15:38.941000",
+      "status": "not_found"
+    },
+    {
+      "source": "Wikipedia Related Article",
+      "title": "X Corp.",
+      "timestamp": "2025-10-04T14:15:40.728388",
+      "status": "not_found"
+    },
+    {
+      "source": "Wikipedia Related Article",
+      "title": "SolarCity",
+      "timestamp": "2025-10-04T14:15:42.821705",
+      "status": "not_found"
+    },
+    {
+      "source": "Wikipedia Related Article",
+      "title": "Hyperloop",
+      "url": "https://en.wikipedia.org/wiki/Hyperloop",
+      "timestamp": "2025-10-04T14:15:47.940055",
+      "status": "success",
+      "word_count": 5825
+    },
+    {
+      "source": "Wikipedia Related Article",
+      "title": "Starlink",
+      "timestamp": "2025-10-04T14:15:51.526746",
+      "status": "disambiguation",
+      "options": [
+        "StarLink corn",
+        "Starlink Project",
+        "Subaru",
+        "Starlink Aviation",
+        "Starlink: Battle for Atlas",
+        "St Andrews Rail Link",
+        "Star topology",
+        "Starnet (disambiguation)"
+      ]
+    },
+    {
+      "source": "Wikipedia Related Article",
+      "title": "Tesla Roadster (first generation)",
+      "url": "https://en.wikipedia.org/wiki/Tesla_Roadster_(first_generation)",
+      "timestamp": "2025-10-04T14:15:55.399534",
+      "status": "success",
+      "word_count": 7987
+    },
+    {
+      "source": "Wikipedia Related Article",
+      "title": "Tesla, Inc.",
+      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+      "timestamp": "2025-10-04T14:16:00.225222",
+      "status": "success",
+      "word_count": 14125
+    },
+    {
+      "source": "Wikipedia Related Article",
+      "title": "Falcon 1",
+      "url": "https://en.wikipedia.org/wiki/Falcon_1",
+      "timestamp": "2025-10-04T14:16:04.113163",
+      "status": "success",
+      "word_count": 3464
+    },
+    {
+      "source": "Wikipedia Related Article",
+      "title": "SpaceX Starship",
+      "url": "https://en.wikipedia.org/wiki/SpaceX_Starship",
+      "timestamp": "2025-10-04T14:16:08.507974",
+      "status": "success",
+      "word_count": 10469
+    },
+    {
+      "source": "Wikipedia Related Article",
+      "title": "Colonization of Mars",
+      "url": "https://en.wikipedia.org/wiki/Colonization_of_Mars",
+      "timestamp": "2025-10-04T14:16:12.515808",
+      "status": "success",
+      "word_count": 7792
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "Single-letter second-level domain",
+      "url": "https://en.wikipedia.org/wiki/Single-letter_second-level_domain",
+      "timestamp": "2025-10-04T14:17:01.704641",
+      "status": "success",
+      "word_count": 842
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "Zip2",
+      "url": "https://en.wikipedia.org/wiki/Zip2",
+      "timestamp": "2025-10-04T14:17:04.206602",
+      "status": "success",
+      "word_count": 590
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "Tesla Autopilot",
+      "url": "https://en.wikipedia.org/wiki/Tesla_Autopilot",
+      "timestamp": "2025-10-04T14:17:07.564763",
+      "status": "success",
+      "word_count": 11990
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "Tesla Cybertruck",
+      "url": "https://en.wikipedia.org/wiki/Tesla_Cybertruck",
+      "timestamp": "2025-10-04T14:17:10.891310",
+      "status": "success",
+      "word_count": 3914
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "Gigafactory",
+      "url": "https://en.wikipedia.org/wiki/Gigafactory",
+      "timestamp": "2025-10-04T14:17:15.604640",
+      "status": "success",
+      "word_count": 384
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "Falcon Heavy",
+      "url": "https://en.wikipedia.org/wiki/Falcon_Heavy",
+      "timestamp": "2025-10-04T14:17:19.032133",
+      "status": "success",
+      "word_count": 4888
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "SpaceX Dragon 2",
+      "url": "https://en.wikipedia.org/wiki/SpaceX_Dragon_2",
+      "timestamp": "2025-10-04T14:17:23.475302",
+      "status": "success",
+      "word_count": 3781
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "SpaceX Starship",
+      "url": "https://en.wikipedia.org/wiki/SpaceX_Starship",
+      "timestamp": "2025-10-04T14:17:26.728874",
+      "status": "success",
+      "word_count": 10469
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "Crew Dragon Demo-2",
+      "url": "https://en.wikipedia.org/wiki/Crew_Dragon_Demo-2",
+      "timestamp": "2025-10-04T14:17:30.036011",
+      "status": "success",
+      "word_count": 3125
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "OpenAI",
+      "url": "https://en.wikipedia.org/wiki/OpenAI",
+      "timestamp": "2025-10-04T14:17:33.318440",
+      "status": "success",
+      "word_count": 5994
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "Artificial intelligence",
+      "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+      "timestamp": "2025-10-04T14:17:36.814327",
+      "status": "success",
+      "word_count": 13590
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "Electric vehicle",
+      "url": "https://en.wikipedia.org/wiki/Electric_vehicle",
+      "timestamp": "2025-10-04T14:17:40.371582",
+      "status": "success",
+      "word_count": 8288
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "Sustainable energy",
+      "url": "https://en.wikipedia.org/wiki/Sustainable_energy",
+      "timestamp": "2025-10-04T14:17:43.618538",
+      "status": "success",
+      "word_count": 7082
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "Private spaceflight",
+      "url": "https://en.wikipedia.org/wiki/Private_spaceflight",
+      "timestamp": "2025-10-04T14:17:48.113887",
+      "status": "success",
+      "word_count": 6120
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "Private spaceflight",
+      "url": "https://en.wikipedia.org/wiki/Private_spaceflight",
+      "timestamp": "2025-10-04T14:17:51.332936",
+      "status": "success",
+      "word_count": 6120
+    },
+    {
+      "source": "Wikipedia Additional Article",
+      "title": "Mars Society",
+      "url": "https://en.wikipedia.org/wiki/Mars_Society",
+      "timestamp": "2025-10-04T14:17:54.518190",
+      "status": "success",
+      "word_count": 2590
+    }
+  ],
+  "last_updated": "2025-10-04T14:17:54.529812"
+}
