@@ -294,11 +294,11 @@ living-voices-dataset/
 
 | **Check Type** | **Du Fu** | **Elon Musk** | **Queen Elizabeth II** | **Status** |
 |----------------|-----------|---------------|------------------------|------------|
-| Source Coverage | 100% (1,496/1,496) | 100% (48/48) | 100% (22/22) | ✅ Pass |
-| Referential Integrity | 100% | 100% | 100% | ✅ Pass |
-| Schema Compliance | Valid | Valid | Valid | ✅ Pass |
-| Duplicate Content | 0 duplicates | 0 duplicates | 0 duplicates | ✅ Pass |
-| Metadata Completeness | 100% | 100% | 100% | ✅ Pass |
+| Source Coverage | 100% (1,496/1,496) | 100% (48/48) | 100% (22/22) | Pass |
+| Referential Integrity | 100% | 100% | 100% | Pass |
+| Schema Compliance | Valid | Valid | Valid | Pass |
+| Duplicate Content | 0 duplicates | 0 duplicates | 0 duplicates | Pass |
+| Metadata Completeness | 100% | 100% | 100% | Pass |
 
 **Quality Report**: See `/documentation/VERIFICATION_REPORT.md` for detailed validation results.
 
@@ -315,7 +315,7 @@ living-voices-dataset/
 
 ### Primary Use Cases
 
-✅ **Recommended Applications**:
+**Recommended Applications**:
 - **Retrieval-Augmented Generation (RAG)**: Persona-grounded response generation
 - **Historical NLP Research**: Diachronic linguistic analysis, temporal language modeling
 - **Cross-lingual Studies**: Classical Chinese vs. Modern English comparative analysis
@@ -323,12 +323,12 @@ living-voices-dataset/
 - **Persona Consistency Evaluation**: Benchmarking persona-based dialogue systems
 - **Cultural AI**: Ethically grounding AI in specific cultural/historical contexts
 
-⚠️ **Use with Caution**:
+**Use with Caution**:
 - Commercial persona-based products (requires additional ethical review)
 - Sensitive historical topic generation (potential for misrepresentation)
 - Cross-cultural applications (requires cultural expertise)
 
-❌ **Not Recommended**:
+**Not Recommended**:
 - Misinformation or fake content generation
 - Identity fraud or impersonation
 - Unauthorized commercial exploitation
@@ -552,12 +552,12 @@ To demonstrate dataset utility, we provide baseline retrieval experiments:
 
 ### Version History
 
-**Version 1.0.0** (Released: 2024-10-04) - **Current Version**
-- ✅ Initial stable release
-- ✅ Complete data for 3 personas (1,566 documents, 3,886 chunks)
-- ✅ Comprehensive metadata infrastructure
-- ✅ 100% data verification and quality validation
-- ✅ Academic documentation complete
+**Version 1.0.0** (Released: 2025-10-04) - **Current Version**
+- Initial stable release
+- Complete data for 3 personas (1,566 documents, 3,886 chunks)
+- Comprehensive metadata infrastructure
+- 100% data verification and quality validation
+- Academic documentation complete
 
 ### Semantic Versioning
 
@@ -568,12 +568,12 @@ This dataset follows [Semantic Versioning](https://semver.org/):
 
 ### Planned Updates
 
-**Version 1.1.0** (Target: 2025 Q1):
+**Version 1.1.0** (Target: 2026 Q1):
 - Add English translations for Du Fu poems
-- Expand Elon Musk content with 2024 updates
+- Expand Elon Musk content with 2025 updates
 - Include additional Queen Elizabeth II speeches
 
-**Version 2.0.0** (Target: 2025 Q3):
+**Version 2.0.0** (Target: 2026 Q3):
 - Add 2-3 new personas (targeting gender and cultural diversity)
 - Introduce multimodal annotations (sentiment, named entities)
 - Provide pre-computed embeddings
@@ -596,10 +596,10 @@ This dataset follows [Semantic Versioning](https://semver.org/):
 If you use the **Living Voices Dataset** in your research, please cite:
 
 ```bibtex
-@dataset{livingvoices2024,
+@dataset{livingvoices2025,
   title     = {Living Voices Dataset: A Multilingual Corpus for Persona-Based Language Modeling},
   author    = {Yang, Yizhuo (Ricki)},
-  year      = {2024},
+  year      = {2025},
   month     = {October},
   version   = {1.0.0},
   institution = {University of Technology Sydney},
@@ -784,7 +784,7 @@ A: We recommend collaborating with Classical Chinese scholars or using translati
 
 ---
 
-**Last Updated**: 2024-10-04  
+**Last Updated**: 2025-10-04  
 **Version**: 1.0.0  
 **Status**: Stable Release
 

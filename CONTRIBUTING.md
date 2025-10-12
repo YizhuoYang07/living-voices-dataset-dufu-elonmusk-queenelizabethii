@@ -2,7 +2,7 @@
 
 We welcome contributions from researchers, students, and practitioners in the NLP community. This document outlines how to contribute effectively to the Living Voices Dataset project.
 
-## 🎯 Types of Contributions
+## Types of Contributions
 
 ### 1. Data Contributions
 - **New Personas**: Adding additional historical or contemporary figures
@@ -22,7 +22,7 @@ We welcome contributions from researchers, students, and practitioners in the NL
 - **Research Papers**: Academic analysis and methodology descriptions
 - **Ethics Guidelines**: Responsible AI and bias mitigation strategies
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -119,7 +119,7 @@ python -m pytest tests/ --cov=tools/
 python tools/validation/validate_all.py
 ```
 
-## 📊 Data Contribution Guidelines
+## Data Contribution Guidelines
 
 ### Adding New Personas
 
@@ -164,7 +164,7 @@ python tools/validation/validate_all.py
 - Maintain historical accuracy
 - Ensure cultural sensitivity
 
-## 🔧 Tool Development
+## Tool Development
 
 ### New Processing Tools
 
@@ -280,7 +280,7 @@ All contributions undergo ethical review:
 - **Transparency**: Clear limitations and biases disclosure
 - **Accountability**: Responsible development and usage
 
-## 🏆 Recognition
+## Recognition
 
 Contributors will be acknowledged through:
 - **Git History**: Commit attribution maintenance
