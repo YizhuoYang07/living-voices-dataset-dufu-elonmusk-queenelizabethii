@@ -741,7 +741,7 @@ This work builds upon best practices established by:
 **Dataset Maintainer**: Yizhuo (Ricki) Yang  
 **Institution**: University of Technology Sydney  
 **Course**: 36118 Applied Natural Language Processing  
-**Email**: Available through UTS course channels
+**Email**: yizhuo.yang@student.uts.edu.au
 
 ### Repository
 
@@ -784,7 +784,7 @@ A: We recommend collaborating with Classical Chinese scholars or using translati
 
 ---
 
-**Last Updated**: 2025-10-04  
+**Last Updated**: 2025-10-12
 **Version**: 1.0.0  
 **Status**: Stable Release
 
