@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-04T14:08:46.446970",
+  "timestamp": "2025-10-13T17:34:04.403462",
   "checks": [
     {
       "check": "directory_structure",
@@ -30,7 +30,7 @@
       "check": "raw_data_file",
       "item": "Biography",
       "status": "pass",
-      "size_kb": 140.25
+      "size_kb": 68.6
     },
     {
       "check": "raw_data_file",
@@ -54,19 +54,19 @@
       "check": "processed_data_file",
       "item": "Structured documents",
       "status": "pass",
-      "size_kb": 776.52
+      "size_kb": 765.54
     },
     {
       "check": "processed_data_file",
       "item": "Training chunks",
       "status": "pass",
-      "size_kb": 1110.3
+      "size_kb": 1094.04
     },
     {
       "check": "processed_data_file",
       "item": "Dataset metadata",
       "status": "pass",
-      "size_kb": 0.52
+      "size_kb": 0.51
     },
     {
       "check": "processed_data_file",
@@ -78,25 +78,7 @@
       "check": "documentation",
       "item": "Main README",
       "status": "pass",
-      "size_kb": 5.93
-    },
-    {
-      "check": "documentation",
-      "item": "Project summary",
-      "status": "pass",
-      "size_kb": 17.56
-    },
-    {
-      "check": "documentation",
-      "item": "Collection report",
-      "status": "pass",
-      "size_kb": 12.16
-    },
-    {
-      "check": "documentation",
-      "item": "Quick reference",
-      "status": "pass",
-      "size_kb": 2.65
+      "size_kb": 5.88
     },
     {
       "check": "data_consistency",
@@ -110,18 +92,34 @@
     }
   ],
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    {
+      "check": "documentation",
+      "item": "Project summary",
+      "message": "File not found"
+    },
+    {
+      "check": "documentation",
+      "item": "Collection report",
+      "message": "File not found"
+    },
+    {
+      "check": "documentation",
+      "item": "Quick reference",
+      "message": "File not found"
+    }
+  ],
   "summary": {
-    "tokens_collected": 93690,
+    "tokens_collected": 85237,
     "token_target": 75000,
-    "progress_percent": 124.92,
+    "progress_percent": 113.65,
     "total_sources": 20
   },
   "final_status": {
-    "checks_passed": 19,
-    "total_checks": 19,
+    "checks_passed": 16,
+    "total_checks": 16,
     "errors": 0,
-    "warnings": 0,
+    "warnings": 3,
     "dataset_ready": true
   }
 }

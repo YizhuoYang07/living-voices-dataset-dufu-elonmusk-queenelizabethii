@@ -46,13 +46,45 @@ class QueenElizabethDataCollector:
         """
         Collect main biographical information from the primary Wikipedia article.
         
+        Uses improved disambiguation handling to ensure we get the correct
+        Elizabeth II (1926-2022) page, not Elizabeth I (1533-1603).
+        
         Returns:
             Dictionary containing biographical data
         """
         print("Collecting main biography from Wikipedia...")
         
         try:
-            page = wikipedia.page("Elizabeth II")
+            # Try multiple title variations to avoid disambiguation issues
+            possible_titles = [
+                "Elizabeth II of the United Kingdom",
+                "Queen Elizabeth II",
+                "Elizabeth II"
+            ]
+            
+            page = None
+            for title in possible_titles:
+                try:
+                    print(f"  - Trying: {title}")
+                    test_page = wikipedia.page(title, auto_suggest=False)
+                    # Validate this is Elizabeth II (1926-2022) not Elizabeth I (1533-1603)
+                    if "1926" in test_page.content and ("2022" in test_page.content or "Elizabeth II" in test_page.title):
+                        page = test_page
+                        print(f"  ✓ Found correct page: {test_page.title}")
+                        break
+                except (wikipedia.exceptions.DisambiguationError, wikipedia.exceptions.PageError):
+                    continue
+            
+            if page is None:
+                print("  - Trying with auto_suggest enabled...")
+                page = wikipedia.page("Elizabeth II", auto_suggest=True)
+            
+            # Validate the page is correct
+            if "1533" in page.content[:1000] or ("Elizabeth I" in page.title and "Elizabeth II" not in page.title):
+                raise ValueError(
+                    f"Wrong page retrieved: {page.title}. "
+                    "This appears to be Elizabeth I (1533-1603) instead of Elizabeth II (1926-2022)."
+                )
             
             data = {
                 "title": page.title,
@@ -81,6 +113,15 @@ class QueenElizabethDataCollector:
             
         except wikipedia.exceptions.PageError as e:
             print(f"Error: Page not found - {e}")
+            self.collection_log.append({
+                "source": "Wikipedia Main Article",
+                "timestamp": datetime.now().isoformat(),
+                "status": "error",
+                "error": str(e)
+            })
+            return {}
+        except ValueError as e:
+            print(f"Error: {e}")
             self.collection_log.append({
                 "source": "Wikipedia Main Article",
                 "timestamp": datetime.now().isoformat(),

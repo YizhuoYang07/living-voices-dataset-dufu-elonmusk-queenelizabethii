@@ -1,11 +1,11 @@
 {
   "processing_statistics": {
-    "start_time": "2025-10-04T14:01:53.744443",
+    "start_time": "2025-10-13T17:27:07.932673",
     "raw_sources": 20,
     "processed_documents": 20,
-    "total_chunks": 313,
+    "total_chunks": 308,
     "total_tokens": 0,
-    "end_time": "2025-10-04T14:01:53.783893"
+    "end_time": "2025-10-13T17:27:07.973084"
   },
   "output_files": {
     "structured_documents": "structured_documents.json",
@@ -14,7 +14,7 @@
   },
   "quality_metrics": {
     "documents_processed": 20,
-    "chunks_created": 313,
+    "chunks_created": 308,
     "average_chunk_size": "~500 words",
     "chunk_overlap": "100 words"
   }
